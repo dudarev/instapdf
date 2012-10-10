@@ -1,0 +1,5 @@
+```
+python instapdf.pdf
+```
+
+Takes first 6 jpg images in the directory and puts them into 10x15 canvas in PDF.
